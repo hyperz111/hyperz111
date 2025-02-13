@@ -1,6 +1,5 @@
-### Welcome to Hyper-Z11 profile
+### Hyper-Z11
 
-Thanks to visit my Github profile :D  
 **Just a random people making a random things**
 <!--
 **Hyper-Z11/Hyper-Z11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
