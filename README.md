@@ -1,6 +1,6 @@
 # Hyper-Z11
 
-**Just someone who makes something**
+![pura-pura gk liat](./pura-pura-gk-list.jpeg)
 
 ![hyperz111's Stats](https://github-readme-stats.vercel.app/api?username=hyperz111&theme=monokai&show_icons=true&hide_border=true&count_private=false)
 
