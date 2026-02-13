@@ -4,7 +4,8 @@
 
 ## Tools
 
-![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![ESBuild](https://img.shields.io/badge/esbuild-gray?style=for-the-badge&logo=esbuild&logoColor=yellow)
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=Git&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white) 
