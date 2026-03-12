@@ -7,7 +7,7 @@ on:
   workflow-dispath: # Can running via GitHub Actions Tab
 
 jobs:
-  build-and-deploy:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
@@ -16,6 +16,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
       - name: Update README
         run: pnpm run update
       - name: Commit README changes
