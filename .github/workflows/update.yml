@@ -1,0 +1,27 @@
+name: Update
+
+on:
+  schedule:
+    # Running every 10 minutes
+    - cron: "*/10 * * * *"
+  workflow-dispath: # Can running via GitHub Actions Tab
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Update README
+        run: pnpm run update
+      - name: Commit README changes
+        run: |
+          git config --local user.email "hyperz111@users.noreply.github.com"
+          git config --local user.name "Hyper-Z11"
+          git add README.md
+          git commit -m "docs: update README"
+          git push
