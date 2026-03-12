@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "update": "node update.js",
-    "format": "prettier -w *.{js,md}"
+    "format": "prettier -w **/*.{js,md,yml}"
   },
   "packageManager": "pnpm@10.15.0",
   "type": "module",
