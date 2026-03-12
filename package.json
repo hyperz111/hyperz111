@@ -1,0 +1,14 @@
+{
+  "name": "hyperz111",
+  "private": true,
+  "scripts": {
+    "update": "node update.js",
+    "format": "prettier -w *.{js,md}"
+  },
+  "packageManager": "pnpm@10.15.0",
+  "type": "module",
+  "devDependencies": {
+    "@hyperz111/prettier-config": "^1.0.3",
+    "prettier": "^3.8.1"
+  }
+}
