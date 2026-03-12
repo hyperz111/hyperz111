@@ -6,6 +6,9 @@ on:
     - cron: "*/10 * * * *"
   workflow_dispatch: # Can running via GitHub Actions Tab
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
