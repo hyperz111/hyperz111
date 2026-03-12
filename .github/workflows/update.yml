@@ -4,7 +4,7 @@ on:
   schedule:
     # Running every 10 minutes
     - cron: "*/10 * * * *"
-  workflow-dispath: # Can running via GitHub Actions Tab
+  workflow_dispatch: # Can running via GitHub Actions Tab
 
 jobs:
   update:
@@ -16,8 +16,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
       - name: Update README
-        run: node update.js
+        run: pnpm run update
       - name: Commit README changes
         run: |
           git config --local user.email "hyperz111@users.noreply.github.com"
