@@ -2,9 +2,9 @@ name: Update
 
 on:
   schedule:
-    # Running every 10 minutes
-    - cron: "*/10 * * * *"
-  workflow_dispatch: # Can running via GitHub Actions Tab
+    # Running every 1 hour
+    - cron: "0 * * * *"
+  workflow_dispatch: # Can run manually via GitHub Actions Tab
 
 permissions:
   contents: write
