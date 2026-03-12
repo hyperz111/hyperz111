@@ -5,6 +5,9 @@ on:
     # Running every 75 minutes
     - cron: "15 * * * *"
   workflow_dispatch: # Can run manually via GitHub Actions Tab
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
