@@ -1,5 +1,6 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, parse } from "node:path";
+import { getRandomValues } from "node:crypto";
 
 const { dirname: __dirname } = import.meta;
 
@@ -9,8 +10,8 @@ const content = readFileSync(README_PATH, "utf8");
 const images = readdirSync(join(__dirname, "images"));
 const updated = content
 	.replace(/!\[[^\]\]]+\]\(\.\/images\/([^\(\)]+)\)/, (_, g1) => {
-		const nextIndex = (images.indexOf(g1) % images.length) + 1;
-		const next = images[nextIndex];
+		const index = getRandomValues(new Uint8Array(1))[0] % images.length;
+		const next = images[index];
 		const { name } = parse(next);
 		return `![${name}](./images/${next})`;
 	})
