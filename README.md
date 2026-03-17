@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
+![akwoakwoakwoak](./images/akwoakwoakwoak.webp)
 
-_Updated at Tue, 17 Mar 2026 21:53:35 GMT_
+_Updated at Tue, 17 Mar 2026 22:51:51 GMT_
