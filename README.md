@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![kelas-king](./images/kelas-king.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Fri, 20 Mar 2026 19:05:56 GMT_
+_Updated at Fri, 20 Mar 2026 19:48:56 GMT_
