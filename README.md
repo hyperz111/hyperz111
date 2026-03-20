@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![lari-cok](./images/lari-cok.webp)
+![boonk-coba-eses](./images/boonk-coba-eses.webp)
 
-_Updated at Fri, 20 Mar 2026 11:45:26 GMT_
+_Updated at Fri, 20 Mar 2026 13:33:58 GMT_
