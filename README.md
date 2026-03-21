@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![ohhhh-sit-men](./images/ohhhh-sit-men.webp)
+![ampun](./images/ampun.webp)
 
-_Updated at Sat, 21 Mar 2026 19:35:20 GMT_
+_Updated at Sat, 21 Mar 2026 20:42:11 GMT_
