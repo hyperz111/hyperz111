@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
+![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
 
-_Updated at Tue, 07 Apr 2026 12:03:26 GMT_
+_Updated at Tue, 07 Apr 2026 14:00:32 GMT_
