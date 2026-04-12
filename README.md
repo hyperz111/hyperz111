@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![ampun](./images/ampun.webp)
+![apa-iyah-banh](./images/apa-iyah-banh.webp)
 
-_Updated at Sun, 12 Apr 2026 09:04:14 GMT_
+_Updated at Sun, 12 Apr 2026 09:59:33 GMT_
