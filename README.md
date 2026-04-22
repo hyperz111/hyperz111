@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![slow-bang](./images/slow-bang.webp)
+![ah-lu](./images/ah-lu.webp)
 
-_Updated at Wed, 22 Apr 2026 17:14:24 GMT_
+_Updated at Wed, 22 Apr 2026 18:13:07 GMT_
