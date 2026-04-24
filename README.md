@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![berpikir-sejenak](./images/berpikir-sejenak.webp)
+![ea](./images/ea.webp)
 
-_Updated at Thu, 23 Apr 2026 23:05:39 GMT_
+_Updated at Fri, 24 Apr 2026 00:01:20 GMT_
