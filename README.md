@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
+![ah-lu](./images/ah-lu.webp)
 
-_Updated at Thu, 30 Apr 2026 22:08:20 GMT_
+_Updated at Thu, 30 Apr 2026 23:08:46 GMT_
