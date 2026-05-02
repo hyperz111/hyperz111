@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![ez-men](./images/ez-men.webp)
+![hehehehe](./images/hehehehe.webp)
 
-_Updated at Sat, 02 May 2026 06:19:41 GMT_
+_Updated at Sat, 02 May 2026 08:43:08 GMT_
