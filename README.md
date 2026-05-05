@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Tue, 05 May 2026 18:45:26 GMT_
+_Updated at Tue, 05 May 2026 20:16:42 GMT_
