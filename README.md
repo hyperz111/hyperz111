@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![akwoakwoakwoak](./images/akwoakwoakwoak.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Sun, 10 May 2026 06:44:21 GMT_
+_Updated at Sun, 10 May 2026 09:01:01 GMT_
