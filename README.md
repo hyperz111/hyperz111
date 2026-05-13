@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![boonk-coba-eses](./images/boonk-coba-eses.webp)
+![ez-men](./images/ez-men.webp)
 
-_Updated at Wed, 13 May 2026 00:12:49 GMT_
+_Updated at Wed, 13 May 2026 04:12:45 GMT_
