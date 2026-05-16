@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![apa-iyah-banh](./images/apa-iyah-banh.webp)
+![lari-cok](./images/lari-cok.webp)
 
-_Updated at Sat, 16 May 2026 12:03:31 GMT_
+_Updated at Sat, 16 May 2026 13:58:06 GMT_
