@@ -2,8 +2,8 @@ name: Update
 
 on:
   schedule:
-    # Running every 75 minutes
-    - cron: "15 * * * *"
+    # Running every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Can run manually via GitHub Actions Tab
   push:
     branches:
