@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![najis-baperan](./images/najis-baperan.webp)
+![ohhhh-sit-men](./images/ohhhh-sit-men.webp)
 
-_Updated at Wed, 10 Jun 2026 15:35:09 GMT_
+_Updated at Wed, 10 Jun 2026 20:30:31 GMT_
