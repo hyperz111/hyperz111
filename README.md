@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![wibuu](./images/wibuu.webp)
+![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
 
-_Updated at Thu, 25 Jun 2026 14:33:20 GMT_
+_Updated at Thu, 25 Jun 2026 20:00:41 GMT_
