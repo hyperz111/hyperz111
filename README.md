@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![kelas-king](./images/kelas-king.webp)
+![akwoakwoakwoak](./images/akwoakwoakwoak.webp)
 
-_Updated at Sat, 11 Jul 2026 13:18:18 GMT_
+_Updated at Sat, 11 Jul 2026 19:02:34 GMT_
