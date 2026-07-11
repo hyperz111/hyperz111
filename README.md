@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![mas-admin](./images/mas-admin.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Sat, 11 Jul 2026 07:55:21 GMT_
+_Updated at Sat, 11 Jul 2026 13:18:18 GMT_
