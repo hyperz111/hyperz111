@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![chuaakzz](./images/chuaakzz.webp)
 
-_Updated at Fri, 17 Jul 2026 02:36:28 GMT_
+_Updated at Fri, 17 Jul 2026 08:09:22 GMT_
