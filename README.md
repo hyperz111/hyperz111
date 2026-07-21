@@ -1,4 +1,4 @@
-# Hyper-Z11 (Zeroun)
+# Hyper-Z11
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
