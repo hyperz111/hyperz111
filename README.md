@@ -2,6 +2,6 @@
 
 Checkout my personal website https://hyperz111.github.io (Indonesian Only).
 
-![chuaakzz](./images/chuaakzz.webp)
+![alamak](./images/alamak.webp)
 
-_Updated at Wed, 22 Jul 2026 02:36:50 GMT_
+_Updated at Wed, 22 Jul 2026 08:28:32 GMT_
