@@ -1,3 +1,3 @@
-![kelas-king](./images/kelas-king.webp)
+![ah-lu](./images/ah-lu.webp)
 
-_Updated at Mon, 17 Aug 2026 01:12:45 GMT_
+_Updated at Mon, 17 Aug 2026 06:53:54 GMT_
