@@ -1,3 +1,3 @@
-![berpikir-sejenak](./images/berpikir-sejenak.webp)
+![wibuu](./images/wibuu.webp)
 
-_Updated at Thu, 20 Aug 2026 01:11:04 GMT_
+_Updated at Thu, 20 Aug 2026 06:43:25 GMT_
