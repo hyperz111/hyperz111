@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Thu, 20 Aug 2026 18:37:43 GMT_
+_Updated at Fri, 21 Aug 2026 01:15:02 GMT_
