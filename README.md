@@ -1,3 +1,3 @@
-![ea](./images/ea.webp)
+![ez-men](./images/ez-men.webp)
 
-_Updated at Fri, 21 Aug 2026 06:44:29 GMT_
+_Updated at Fri, 21 Aug 2026 12:44:35 GMT_
