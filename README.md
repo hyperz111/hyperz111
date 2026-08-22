@@ -1,3 +1,3 @@
-![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Sat, 22 Aug 2026 12:36:50 GMT_
+_Updated at Sat, 22 Aug 2026 18:29:10 GMT_
