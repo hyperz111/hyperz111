@@ -1,3 +1,3 @@
-![berpikir-sejenak](./images/berpikir-sejenak.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Sun, 23 Aug 2026 18:28:00 GMT_
+_Updated at Mon, 24 Aug 2026 01:14:59 GMT_
