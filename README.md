@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![akwoakwoakwoak](./images/akwoakwoakwoak.webp)
 
-_Updated at Mon, 24 Aug 2026 06:56:45 GMT_
+_Updated at Mon, 24 Aug 2026 12:48:30 GMT_
