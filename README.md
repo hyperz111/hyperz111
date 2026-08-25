@@ -1,3 +1,3 @@
-![kelas-king](./images/kelas-king.webp)
+![gacor-kang](./images/gacor-kang.webp)
 
-_Updated at Mon, 24 Aug 2026 18:38:31 GMT_
+_Updated at Tue, 25 Aug 2026 01:13:04 GMT_
