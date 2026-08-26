@@ -1,3 +1,3 @@
-![slow-bang](./images/slow-bang.webp)
+![chuaakzz](./images/chuaakzz.webp)
 
-_Updated at Wed, 26 Aug 2026 01:15:34 GMT_
+_Updated at Wed, 26 Aug 2026 06:47:36 GMT_
