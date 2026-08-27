@@ -1,3 +1,3 @@
-![mas-admin](./images/mas-admin.webp)
+![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
 
-_Updated at Thu, 27 Aug 2026 07:46:10 GMT_
+_Updated at Thu, 27 Aug 2026 21:50:37 GMT_
