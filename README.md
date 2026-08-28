@@ -1,3 +1,3 @@
-![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Thu, 27 Aug 2026 21:50:37 GMT_
+_Updated at Fri, 28 Aug 2026 09:50:54 GMT_
