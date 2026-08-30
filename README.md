@@ -1,3 +1,3 @@
-![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
+![lawack](./images/lawack.webp)
 
-_Updated at Sat, 29 Aug 2026 20:28:38 GMT_
+_Updated at Sun, 30 Aug 2026 03:54:37 GMT_
