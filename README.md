@@ -1,3 +1,3 @@
-![slow-bang](./images/slow-bang.webp)
+![gak-manuk-akal](./images/gak-manuk-akal.webp)
 
-_Updated at Sun, 30 Aug 2026 20:38:19 GMT_
+_Updated at Mon, 31 Aug 2026 03:57:48 GMT_
