@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![ampun](./images/ampun.webp)
 
-_Updated at Tue, 01 Sep 2026 16:08:10 GMT_
+_Updated at Tue, 01 Sep 2026 20:37:31 GMT_
