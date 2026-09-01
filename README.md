@@ -1,3 +1,3 @@
-![hadehh](./images/hadehh.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Mon, 31 Aug 2026 22:31:57 GMT_
+_Updated at Tue, 01 Sep 2026 03:48:28 GMT_
