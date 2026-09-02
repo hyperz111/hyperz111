@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![apa-iyah-banh](./images/apa-iyah-banh.webp)
 
-_Updated at Tue, 01 Sep 2026 20:37:31 GMT_
+_Updated at Wed, 02 Sep 2026 03:07:45 GMT_
