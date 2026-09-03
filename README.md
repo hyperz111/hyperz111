@@ -1,3 +1,3 @@
-![ah-lu](./images/ah-lu.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Thu, 03 Sep 2026 10:44:49 GMT_
+_Updated at Thu, 03 Sep 2026 15:52:05 GMT_
