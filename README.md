@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Sun, 06 Sep 2026 10:21:02 GMT_
+_Updated at Sun, 06 Sep 2026 14:59:40 GMT_
