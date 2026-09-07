@@ -1,3 +1,3 @@
-![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Mon, 07 Sep 2026 03:09:07 GMT_
+_Updated at Mon, 07 Sep 2026 11:42:14 GMT_
