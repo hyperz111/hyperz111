@@ -1,3 +1,3 @@
-![ah-lu](./images/ah-lu.webp)
+![ampun](./images/ampun.webp)
 
-_Updated at Mon, 07 Sep 2026 17:20:07 GMT_
+_Updated at Mon, 07 Sep 2026 21:09:52 GMT_
