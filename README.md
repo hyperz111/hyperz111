@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
 
-_Updated at Tue, 08 Sep 2026 10:40:36 GMT_
+_Updated at Tue, 08 Sep 2026 16:04:30 GMT_
