@@ -1,3 +1,3 @@
-![apa-iyah-banh](./images/apa-iyah-banh.webp)
+![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
 
-_Updated at Thu, 10 Sep 2026 03:19:35 GMT_
+_Updated at Thu, 10 Sep 2026 10:43:37 GMT_
