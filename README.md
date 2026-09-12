@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![apa-iyah-banh](./images/apa-iyah-banh.webp)
 
-_Updated at Fri, 11 Sep 2026 20:31:34 GMT_
+_Updated at Sat, 12 Sep 2026 03:21:14 GMT_
