@@ -1,3 +1,3 @@
-![mas-admin](./images/mas-admin.webp)
+![najis-baperan](./images/najis-baperan.webp)
 
-_Updated at Sat, 12 Sep 2026 20:14:09 GMT_
+_Updated at Sun, 13 Sep 2026 03:26:22 GMT_
