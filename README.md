@@ -1,3 +1,3 @@
-![najis-baperan](./images/najis-baperan.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Sun, 13 Sep 2026 03:26:22 GMT_
+_Updated at Sun, 13 Sep 2026 11:10:19 GMT_
