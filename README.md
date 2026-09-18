@@ -1,3 +1,3 @@
-![gacor-kang](./images/gacor-kang.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Fri, 18 Sep 2026 03:25:59 GMT_
+_Updated at Fri, 18 Sep 2026 10:39:39 GMT_
