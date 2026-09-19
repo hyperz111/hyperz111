@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Sat, 19 Sep 2026 15:26:52 GMT_
+_Updated at Sat, 19 Sep 2026 20:07:19 GMT_
