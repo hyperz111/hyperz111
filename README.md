@@ -1,3 +1,3 @@
-![eee](./images/eee.webp)
+![gak-manuk-akal](./images/gak-manuk-akal.webp)
 
-_Updated at Sun, 20 Sep 2026 15:31:55 GMT_
+_Updated at Sun, 20 Sep 2026 20:23:27 GMT_
