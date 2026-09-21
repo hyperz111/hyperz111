@@ -1,3 +1,3 @@
-![gak-manuk-akal](./images/gak-manuk-akal.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Sun, 20 Sep 2026 20:23:27 GMT_
+_Updated at Mon, 21 Sep 2026 03:34:13 GMT_
