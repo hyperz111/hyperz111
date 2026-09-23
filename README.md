@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![gak-manuk-akal](./images/gak-manuk-akal.webp)
 
-_Updated at Wed, 23 Sep 2026 10:51:47 GMT_
+_Updated at Wed, 23 Sep 2026 16:12:23 GMT_
