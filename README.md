@@ -1,3 +1,3 @@
-![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Fri, 25 Sep 2026 21:08:44 GMT_
+_Updated at Sat, 26 Sep 2026 03:47:02 GMT_
