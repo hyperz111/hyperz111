@@ -1,3 +1,3 @@
-![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Sun, 27 Sep 2026 11:29:37 GMT_
+_Updated at Sun, 27 Sep 2026 16:29:17 GMT_
