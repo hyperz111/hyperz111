@@ -1,3 +1,3 @@
-![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
+![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
 
-_Updated at Tue, 29 Sep 2026 21:56:08 GMT_
+_Updated at Wed, 30 Sep 2026 04:13:45 GMT_
