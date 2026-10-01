@@ -1,3 +1,3 @@
-![hehehehe](./images/hehehehe.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Wed, 30 Sep 2026 22:03:35 GMT_
+_Updated at Thu, 01 Oct 2026 04:25:41 GMT_
