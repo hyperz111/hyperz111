@@ -1,3 +1,3 @@
-![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
+![hehehehe](./images/hehehehe.webp)
 
-_Updated at Fri, 02 Oct 2026 11:57:58 GMT_
+_Updated at Fri, 02 Oct 2026 17:44:30 GMT_
