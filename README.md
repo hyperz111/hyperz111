@@ -1,3 +1,3 @@
-![mas-admin](./images/mas-admin.webp)
+![lari-cok](./images/lari-cok.webp)
 
-_Updated at Mon, 05 Oct 2026 13:44:39 GMT_
+_Updated at Mon, 05 Oct 2026 23:47:22 GMT_
