@@ -1,3 +1,3 @@
-![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Mon, 05 Oct 2026 04:19:22 GMT_
+_Updated at Mon, 05 Oct 2026 13:44:39 GMT_
