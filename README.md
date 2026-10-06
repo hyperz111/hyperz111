@@ -1,3 +1,3 @@
-![lari-cok](./images/lari-cok.webp)
+![hadehh](./images/hadehh.webp)
 
-_Updated at Mon, 05 Oct 2026 23:47:22 GMT_
+_Updated at Tue, 06 Oct 2026 05:07:36 GMT_
