@@ -1,3 +1,3 @@
-![apa-iyah-banh](./images/apa-iyah-banh.webp)
+![alamak](./images/alamak.webp)
 
-_Updated at Wed, 07 Oct 2026 12:44:19 GMT_
+_Updated at Wed, 07 Oct 2026 22:47:35 GMT_
