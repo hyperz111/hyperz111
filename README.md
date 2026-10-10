@@ -1,3 +1,3 @@
-![eee](./images/eee.webp)
+![alamak](./images/alamak.webp)
 
-_Updated at Sat, 10 Oct 2026 17:16:42 GMT_
+_Updated at Sat, 10 Oct 2026 21:13:34 GMT_
