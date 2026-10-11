@@ -1,3 +1,3 @@
-![alamak](./images/alamak.webp)
+![lari-cok](./images/lari-cok.webp)
 
-_Updated at Sat, 10 Oct 2026 21:13:34 GMT_
+_Updated at Sun, 11 Oct 2026 04:18:03 GMT_
