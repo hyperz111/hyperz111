@@ -1,3 +1,3 @@
-![lari-cok](./images/lari-cok.webp)
+![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
 
-_Updated at Sun, 11 Oct 2026 04:18:03 GMT_
+_Updated at Sun, 11 Oct 2026 12:11:19 GMT_
