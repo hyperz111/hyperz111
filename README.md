@@ -1,3 +1,3 @@
-![gak-manuk-akal](./images/gak-manuk-akal.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Sun, 11 Oct 2026 21:33:12 GMT_
+_Updated at Mon, 12 Oct 2026 04:34:44 GMT_
