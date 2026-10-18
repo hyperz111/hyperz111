@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![hehehehe](./images/hehehehe.webp)
 
-_Updated at Sat, 17 Oct 2026 20:11:41 GMT_
+_Updated at Sun, 18 Oct 2026 03:15:12 GMT_
