@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![berpikir-sejenak](./images/berpikir-sejenak.webp)
 
-_Updated at Wed, 21 Oct 2026 16:41:39 GMT_
+_Updated at Wed, 21 Oct 2026 21:17:55 GMT_
