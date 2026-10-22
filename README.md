@@ -1,3 +1,3 @@
-![berpikir-sejenak](./images/berpikir-sejenak.webp)
+![hm](./images/hm.webp)
 
-_Updated at Wed, 21 Oct 2026 21:17:55 GMT_
+_Updated at Thu, 22 Oct 2026 03:30:04 GMT_
