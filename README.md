@@ -1,3 +1,3 @@
-![kalo-gwe-malu-tuh](./images/kalo-gwe-malu-tuh.webp)
+![eee](./images/eee.webp)
 
-_Updated at Thu, 22 Oct 2026 11:14:22 GMT_
+_Updated at Thu, 22 Oct 2026 16:42:22 GMT_
