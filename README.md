@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![ohhhh-sit-men](./images/ohhhh-sit-men.webp)
 
-_Updated at Thu, 22 Oct 2026 21:14:10 GMT_
+_Updated at Fri, 23 Oct 2026 03:34:53 GMT_
