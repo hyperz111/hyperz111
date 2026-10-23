@@ -1,3 +1,3 @@
-![najis-baperan](./images/najis-baperan.webp)
+![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
 
-_Updated at Fri, 23 Oct 2026 16:32:52 GMT_
+_Updated at Fri, 23 Oct 2026 21:02:42 GMT_
