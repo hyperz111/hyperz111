@@ -1,3 +1,3 @@
-![hehehehe](./images/hehehehe.webp)
+![gak-manuk-akal](./images/gak-manuk-akal.webp)
 
-_Updated at Mon, 26 Oct 2026 12:20:24 GMT_
+_Updated at Mon, 26 Oct 2026 22:20:23 GMT_
