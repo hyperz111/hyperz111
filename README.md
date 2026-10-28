@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![ampun](./images/ampun.webp)
 
-_Updated at Tue, 27 Oct 2026 21:51:24 GMT_
+_Updated at Wed, 28 Oct 2026 04:15:39 GMT_
