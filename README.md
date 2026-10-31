@@ -1,3 +1,3 @@
-![gacor-kang](./images/gacor-kang.webp)
+![ampun](./images/ampun.webp)
 
-_Updated at Sat, 31 Oct 2026 04:19:21 GMT_
+_Updated at Sat, 31 Oct 2026 11:45:16 GMT_
