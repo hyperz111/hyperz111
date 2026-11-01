@@ -1,3 +1,3 @@
-![lari-cok](./images/lari-cok.webp)
+![ah-lu](./images/ah-lu.webp)
 
-_Updated at Sat, 31 Oct 2026 21:02:49 GMT_
+_Updated at Sun, 01 Nov 2026 04:39:14 GMT_
