@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Mon, 02 Nov 2026 14:52:49 GMT_
+_Updated at Tue, 03 Nov 2026 00:34:33 GMT_
