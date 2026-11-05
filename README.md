@@ -1,3 +1,3 @@
-![najis-baperan](./images/najis-baperan.webp)
+![ez-men](./images/ez-men.webp)
 
-_Updated at Wed, 04 Nov 2026 23:15:24 GMT_
+_Updated at Thu, 05 Nov 2026 05:22:34 GMT_
