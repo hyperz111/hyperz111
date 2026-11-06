@@ -1,3 +1,3 @@
-![mas-admin](./images/mas-admin.webp)
+![wibuu](./images/wibuu.webp)
 
-_Updated at Fri, 06 Nov 2026 05:21:58 GMT_
+_Updated at Fri, 06 Nov 2026 13:47:57 GMT_
