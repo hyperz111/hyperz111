@@ -1,3 +1,3 @@
-![alamak](./images/alamak.webp)
+![ampun](./images/ampun.webp)
 
-_Updated at Tue, 10 Nov 2026 14:24:56 GMT_
+_Updated at Tue, 10 Nov 2026 22:53:01 GMT_
