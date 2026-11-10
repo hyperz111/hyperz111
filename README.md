@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![ez-men](./images/ez-men.webp)
 
-_Updated at Mon, 09 Nov 2026 15:20:18 GMT_
+_Updated at Tue, 10 Nov 2026 01:13:10 GMT_
