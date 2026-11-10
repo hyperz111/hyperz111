@@ -1,3 +1,3 @@
-![ez-men](./images/ez-men.webp)
+![alamak](./images/alamak.webp)
 
-_Updated at Tue, 10 Nov 2026 01:13:10 GMT_
+_Updated at Tue, 10 Nov 2026 14:24:56 GMT_
