@@ -1,3 +1,3 @@
-![berpikir-sejenak](./images/berpikir-sejenak.webp)
+![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
 
-_Updated at Fri, 13 Nov 2026 13:59:11 GMT_
+_Updated at Fri, 13 Nov 2026 23:16:53 GMT_
