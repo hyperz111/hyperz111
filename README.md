@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![ohhhh-sit-men](./images/ohhhh-sit-men.webp)
 
-_Updated at Thu, 12 Nov 2026 23:14:46 GMT_
+_Updated at Fri, 13 Nov 2026 05:19:01 GMT_
