@@ -1,3 +1,3 @@
-![tarik-ucapanmu-bung](./images/tarik-ucapanmu-bung.webp)
+![ez-men](./images/ez-men.webp)
 
-_Updated at Fri, 13 Nov 2026 23:16:53 GMT_
+_Updated at Sat, 14 Nov 2026 05:08:49 GMT_
