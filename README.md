@@ -1,3 +1,3 @@
-![gak-manuk-akal](./images/gak-manuk-akal.webp)
+![najis-baperan](./images/najis-baperan.webp)
 
-_Updated at Sat, 14 Nov 2026 13:01:07 GMT_
+_Updated at Sat, 14 Nov 2026 21:59:56 GMT_
