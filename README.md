@@ -1,3 +1,3 @@
-![eee](./images/eee.webp)
+![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
 
-_Updated at Sun, 15 Nov 2026 22:30:54 GMT_
+_Updated at Mon, 16 Nov 2026 04:59:41 GMT_
