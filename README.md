@@ -1,3 +1,3 @@
-![jangen-jadi-kayak-dia](./images/jangen-jadi-kayak-dia.webp)
+![najis-baperan](./images/najis-baperan.webp)
 
-_Updated at Mon, 16 Nov 2026 14:55:37 GMT_
+_Updated at Tue, 17 Nov 2026 01:37:53 GMT_
