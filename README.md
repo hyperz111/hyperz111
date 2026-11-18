@@ -1,3 +1,3 @@
-![kelas-king](./images/kelas-king.webp)
+![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
 
-_Updated at Wed, 18 Nov 2026 00:35:57 GMT_
+_Updated at Wed, 18 Nov 2026 15:11:21 GMT_
