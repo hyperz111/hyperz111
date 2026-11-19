@@ -1,3 +1,3 @@
-![pura-pura-gak-liat](./images/pura-pura-gak-liat.jpeg)
+![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
 
-_Updated at Thu, 19 Nov 2026 06:12:35 GMT_
+_Updated at Thu, 19 Nov 2026 19:59:51 GMT_
