@@ -1,3 +1,3 @@
-![najis-baperan](./images/najis-baperan.webp)
+![ohhhh-sit-men](./images/ohhhh-sit-men.webp)
 
-_Updated at Fri, 20 Nov 2026 14:57:27 GMT_
+_Updated at Fri, 20 Nov 2026 23:42:40 GMT_
