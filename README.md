@@ -1,3 +1,3 @@
-![canda-bang-nih-500](./images/canda-bang-nih-500.webp)
+![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
 
-_Updated at Thu, 19 Nov 2026 19:59:51 GMT_
+_Updated at Fri, 20 Nov 2026 05:54:35 GMT_
