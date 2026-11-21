@@ -1,3 +1,3 @@
-![ampun](./images/ampun.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Sat, 21 Nov 2026 14:17:19 GMT_
+_Updated at Sat, 21 Nov 2026 22:48:27 GMT_
