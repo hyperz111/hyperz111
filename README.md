@@ -1,3 +1,3 @@
-![kelas-king](./images/kelas-king.webp)
+![mas-admin](./images/mas-admin.webp)
 
-_Updated at Mon, 23 Nov 2026 05:58:24 GMT_
+_Updated at Mon, 23 Nov 2026 17:55:04 GMT_
