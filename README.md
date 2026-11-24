@@ -1,3 +1,3 @@
-![ingat-kita-ga-gudluking](./images/ingat-kita-ga-gudluking.webp)
+![slow-bang](./images/slow-bang.webp)
 
-_Updated at Tue, 24 Nov 2026 03:50:47 GMT_
+_Updated at Tue, 24 Nov 2026 17:01:24 GMT_
