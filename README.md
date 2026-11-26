@@ -1,3 +1,3 @@
-![ea](./images/ea.webp)
+![kelas-king](./images/kelas-king.webp)
 
-_Updated at Wed, 25 Nov 2026 16:51:54 GMT_
+_Updated at Thu, 26 Nov 2026 01:37:13 GMT_
