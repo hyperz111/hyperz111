@@ -1,3 +1,3 @@
-![hehehehe](./images/hehehehe.webp)
+![chuaakzz](./images/chuaakzz.webp)
 
-_Updated at Fri, 27 Nov 2026 01:31:05 GMT_
+_Updated at Fri, 27 Nov 2026 16:14:08 GMT_
